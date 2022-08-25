@@ -1,0 +1,15 @@
+body, html{
+	margin: 0px;
+	height: 100%;
+	overflow-y: hidden;
+}
+
+*{
+	padding:0;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+h1{
+	color: white;
+};
